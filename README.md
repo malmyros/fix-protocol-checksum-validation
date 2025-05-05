@@ -8,7 +8,7 @@ protocol initiated in 1992 for international real-time exchange of information.
 
 For more information you can read the following Wikipedia article:
 
-[Wikipedia](https://en.wikipedia.org/wiki/Financial_Information_eXchange)
+[Financial Information eXchange](https://en.wikipedia.org/wiki/Financial_Information_eXchange)
 
 ## Examples
 
